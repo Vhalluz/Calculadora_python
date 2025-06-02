@@ -1,0 +1,11 @@
+vitor@vitor-desktop:~/modulo1/projeto/logica$ nano calculadora.sh
+
+vitor@vitor-desktop:~/modulo1/projeto/logica$ chmod 744 calculadora.sh 
+
+vitor@vitor-desktop:~/modulo1/projeto/logica$ cd ../python/
+
+vitor@vitor-desktop:~/modulo1/projeto/python$ chmod 744 calculadora_inteligente.py
+
+vitor@vitor-desktop:~/modulo1/projeto/python$ cd ../logica
+
+vitor@vitor-desktop:~/modulo1/projeto/logica$ ./calculadora.sh
